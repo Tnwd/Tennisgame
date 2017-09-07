@@ -1,14 +1,22 @@
 {
   "name": "02-tennis-game",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/jest"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^20.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tnwd/Tennisgame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tnwd/Tennisgame/issues"
+  },
+  "homepage": "https://github.com/Tnwd/Tennisgame#readme",
+  "description": ""
 }
